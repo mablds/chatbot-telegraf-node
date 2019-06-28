@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mablds/chatbot-telegraf-node/issues"
   },
-  "homepage": "https://github.com/mablds/chatbot-telegraf-node#readme"
+  "homepage": "https://github.com/mablds/chatbot-telegraf-node#readme",
+  "dependencies": {
+    "dotenv": "^8.0.0"
+  }
 }
